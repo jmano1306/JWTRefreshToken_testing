@@ -19,7 +19,7 @@ namespace JWTRefreshToken.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Employee>>> Get()
         {
-            //adding employees
+            //adding employees in asynch method
             return await Task.FromResult(_employee.GetEmployeeDetails());
            
         }

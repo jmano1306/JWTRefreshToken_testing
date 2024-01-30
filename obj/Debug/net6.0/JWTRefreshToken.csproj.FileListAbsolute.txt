@@ -65,3 +65,17 @@ D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\obj\Debug
 D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\obj\Debug\net6.0\JWTRefreshToken.pdb
 D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\obj\Debug\net6.0\JWTRefreshToken.genruntimeconfig.cache
 D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\obj\Debug\net6.0\ref\JWTRefreshToken.dll
+D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\bin\Debug\net6.0\MailKit.dll
+D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\bin\Debug\net6.0\MimeKit.dll
+D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\bin\Debug\net6.0\NETCore.MailKit.dll
+D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\bin\Debug\net6.0\User.Management.Service.dll
+D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\bin\Debug\net6.0\User.Management.Service.pdb
+D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\bin\Debug\net6.0\System.Net.Mail.Abstractions.dll
+D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\Dotnet Core\JwtAuthCrud\GitProjects\JWTRefreshToken\JWTRefreshToken\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll

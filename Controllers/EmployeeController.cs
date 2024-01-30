@@ -1,4 +1,5 @@
 ﻿using JWTRefreshToken.Auth;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -16,6 +17,7 @@ namespace JWTRefreshToken.Controllers
             _employee = employee;
         }
         // GET: api/employee>
+        [Authorize]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Employee>>> Get()
         {
@@ -35,6 +37,7 @@ namespace JWTRefreshToken.Controllers
             return employees;
         }
         //POST api/employee
+        [Authorize]
         [HttpPost]
         public async Task<ActionResult<Employee>> Post(Employee employee)
         {

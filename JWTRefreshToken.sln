@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTRefreshToken", "JWTRefreshToken.csproj", "{680E951D-0684-4368-946E-9C2E4F25E597}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTests", "..\ApiTests\ApiTests.csproj", "{A4E7647E-6330-4AAE-BCD9-35F1B5D348B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiTests", "..\ApiTests\ApiTests.csproj", "{A4E7647E-6330-4AAE-BCD9-35F1B5D348B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User.Management.Service", "..\User.Management.Service\User.Management.Service.csproj", "{F19ECF03-8EF2-434D-980E-4812587E8B22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,9 +20,12 @@ Global
 		{680E951D-0684-4368-946E-9C2E4F25E597}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{680E951D-0684-4368-946E-9C2E4F25E597}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A4E7647E-6330-4AAE-BCD9-35F1B5D348B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A4E7647E-6330-4AAE-BCD9-35F1B5D348B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4E7647E-6330-4AAE-BCD9-35F1B5D348B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4E7647E-6330-4AAE-BCD9-35F1B5D348B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F19ECF03-8EF2-434D-980E-4812587E8B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19ECF03-8EF2-434D-980E-4812587E8B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19ECF03-8EF2-434D-980E-4812587E8B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19ECF03-8EF2-434D-980E-4812587E8B22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

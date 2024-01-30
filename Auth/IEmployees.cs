@@ -1,4 +1,6 @@
-﻿namespace JWTRefreshToken.Auth
+﻿using Microsoft.AspNetCore.Identity;
+
+namespace JWTRefreshToken.Auth
 {
     public interface IEmployees
     {
@@ -8,5 +10,6 @@
         public void UpdateEmployee(Employee employee);
         public Employee DeleteEmployee(int id);
         public bool CheckEmployee(int id);
+        
     }
 }

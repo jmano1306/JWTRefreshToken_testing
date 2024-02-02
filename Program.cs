@@ -71,8 +71,7 @@ builder.Services.AddAuthentication(options =>
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JWT:Secret"]))
     };
 });
-////var emailConfig = configuration.GetSection("EmailSettings").Get<ExternalProviders>();
-////builder.Services.AddSingleton(emailConfig);
+///Manohar
 
 builder.Services.AddControllers();
 builder.Services.AddTransient<ExceptionMiddleware>();

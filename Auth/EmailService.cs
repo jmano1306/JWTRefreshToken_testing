@@ -1,8 +1,6 @@
 ﻿using MimeKit;
 //using System.Net.Mail;
 using MailKit.Net.Smtp;
-using User.Management.Service.Model;
-//using SmtpClient = MailKit.Net.Smtp.SmtpClient;
 
 namespace JWTRefreshToken.Auth
 {

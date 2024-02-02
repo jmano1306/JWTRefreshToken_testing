@@ -21,8 +21,7 @@
           "Newtonsoft.Json": "6.0.1",
           "Swashbuckle.AspNetCore": "6.5.0",
           "System.Net.Http": "4.3.4",
-          "System.Net.Mail.Abstractions": "1.1.21",
-          "User.Management.Service": "1.0.0"
+          "System.Net.Mail.Abstractions": "1.1.21"
         },
         "runtime": {
           "JWTRefreshToken.dll": {}
@@ -1053,19 +1052,6 @@
             "fileVersion": "4.700.19.56404"
           }
         }
-      },
-      "User.Management.Service/1.0.0": {
-        "dependencies": {
-          "MailKit": "4.3.0",
-          "Microsoft.AspNet.Identity.Core": "2.2.4",
-          "Microsoft.Extensions.Configuration.FileExtensions": "6.0.0",
-          "Microsoft.Extensions.Configuration.Json": "6.0.0",
-          "NETCore.MailKit": "2.1.0",
-          "System.Net.Mail.Abstractions": "1.1.21"
-        },
-        "runtime": {
-          "User.Management.Service.dll": {}
-        }
       }
     }
   },
@@ -1900,11 +1886,6 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
-    },
-    "User.Management.Service/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

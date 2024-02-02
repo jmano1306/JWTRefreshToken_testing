@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ClgWSkPFtBkQkg+IL6PpfOiqYPdmhGZk3Oz0GTu9/Xrxb6ll41Z6U32AkfSMnUAYgEWZe1amoFOOaLLeQ+/pKA==",
+  "dgSpecHash": "QpHQlC/EYTgXTNnCNz0qYs58K7caV+O6zESABl2aRK5K8uMKnAce1zoSOEpzA90vJkUFoIt95t/8Z4VWn9/68g==",
   "success": true,
-  "projectFilePath": "D:\\Dotnet Core\\JwtAuthCrud\\GitProjects\\JWTRefreshToken\\JWTRefreshToken\\JWTRefreshToken.csproj",
+  "projectFilePath": "D:\\Dotnet Core\\Git Repositories\\JWTRefreshToken_testing\\JWTRefreshToken.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jogim\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\jogim\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

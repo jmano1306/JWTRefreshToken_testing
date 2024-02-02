@@ -8,7 +8,6 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.Net.Http.Headers;
 using NETCore.MailKit.Core;
 using System.Text;
-using User.Management.Service.Model;
 using System;
 using NETCore.MailKit.Extensions;
 using NETCore.MailKit.Infrastructure.Internal;
@@ -72,8 +71,8 @@ builder.Services.AddAuthentication(options =>
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JWT:Secret"]))
     };
 });
-var emailConfig = configuration.GetSection("EmailSettings").Get<ExternalProviders>();
-builder.Services.AddSingleton(emailConfig);
+////var emailConfig = configuration.GetSection("EmailSettings").Get<ExternalProviders>();
+////builder.Services.AddSingleton(emailConfig);
 
 builder.Services.AddControllers();
 builder.Services.AddTransient<ExceptionMiddleware>();

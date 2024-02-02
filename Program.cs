@@ -71,7 +71,7 @@ builder.Services.AddAuthentication(options =>
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JWT:Secret"]))
     };
 });
-///Manohar
+///Manohar doing some changes
 
 builder.Services.AddControllers();
 builder.Services.AddTransient<ExceptionMiddleware>();

@@ -13,7 +13,10 @@ namespace JWTRefreshToken.Auth
         public string? JobTitle { get; set; }
         public DateTime BirthDate { get; set; }
         public string? MaritalStatus { get; set; }
+        //Manohar added code
         public string? Gender { get; set; }
+      
+
         
     }
 }

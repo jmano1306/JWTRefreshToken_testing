@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dotnet Core\\Git Repositories\\JWTRefreshToken_testing\\JWTRefreshToken.csproj": {}
+    "C:\\Repo\\JWTRefreshToken_testing\\JWTRefreshToken.csproj": {}
   },
   "projects": {
-    "D:\\Dotnet Core\\Git Repositories\\JWTRefreshToken_testing\\JWTRefreshToken.csproj": {
+    "C:\\Repo\\JWTRefreshToken_testing\\JWTRefreshToken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dotnet Core\\Git Repositories\\JWTRefreshToken_testing\\JWTRefreshToken.csproj",
+        "projectUniqueName": "C:\\Repo\\JWTRefreshToken_testing\\JWTRefreshToken.csproj",
         "projectName": "JWTRefreshToken",
-        "projectPath": "D:\\Dotnet Core\\Git Repositories\\JWTRefreshToken_testing\\JWTRefreshToken.csproj",
+        "projectPath": "C:\\Repo\\JWTRefreshToken_testing\\JWTRefreshToken.csproj",
         "packagesPath": "C:\\Users\\jogim\\.nuget\\packages\\",
-        "outputPath": "D:\\Dotnet Core\\Git Repositories\\JWTRefreshToken_testing\\obj\\",
+        "outputPath": "C:\\Repo\\JWTRefreshToken_testing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
